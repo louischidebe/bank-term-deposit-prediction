@@ -217,7 +217,7 @@ Top features of the final model (without `duration`):
 
 ```bash
 git clone https://github.com/louischidebe/bank-term-deposit-prediction.git
-cd <bank-term-deposit-prediction>
+cd bank-term-deposit-prediction
 pip install pandas numpy seaborn matplotlib scikit-learn xgboost jupyter
 # download bank-additional-full.csv from the Kaggle link above, then update the file path
 # in the data-loading cell of the notebook
