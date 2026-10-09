@@ -238,7 +238,3 @@ bank-term-deposit-prediction/
 ├── Bank_Marketing_Model.ipynb
 └── README.md
 ```
-
-## Credits
-
-Moro, S., Cortez, P. and Rita, P. (2014). *A Data-Driven Approach to Predict the Success of Bank Telemarketing.* Decision Support Systems, 2014.
