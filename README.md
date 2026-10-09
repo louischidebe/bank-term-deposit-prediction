@@ -219,8 +219,9 @@ Top features of the final model (without `duration`):
 git clone https://github.com/louischidebe/bank-term-deposit-prediction.git
 cd bank-term-deposit-prediction
 pip install pandas numpy seaborn matplotlib scikit-learn xgboost jupyter
-# download bank-additional-full.csv from the Kaggle link above, then update the file path
-# in the data-loading cell of the notebook
+
+# Download the dataset from Kaggle and update the file path
+# in the notebook's data-loading cell.
 jupyter notebook Bank_Marketing_Model.ipynb
 ```
 
